@@ -6,5 +6,7 @@ The availability of remote-sensing data is rapidly expanding. New strategies whi
 
 ### Files explanation
 Fracture_detection.pdf :                                                Summary of model performance (NN, DNN, CNN)
+
 Fractures Investigation_apply model_finepattern.ipynb :                 Comparison between differen model structure 
+
 Fractures Investigation_apply model_finepattern_LargeInputShape.ipynb:  Comparison between different input shape
