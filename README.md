@@ -1,4 +1,4 @@
 # Fracture-detection
-Fracture detection in collaboration with Harold Li (data scientist at Lyft) and Pierre Gentine (professor at Columbia).
+Fracture detection in collaboration with Harold Li (data scientist at Lyft) and Pierre Gentine (professor at Columbia University).
 
-The availability of remote-sensing data is rapidly expanding. New strategies which take advantage of the most recent algorithms and approaches are needed to interpret large remote-sensing data sets. In order to identify fracture locations from satellite imagery across Antarctica, we develop a neural network model for fracture recognition.
+The availability of remote-sensing data is rapidly expanding. New strategies which take advantage of the most recent algorithms and approaches are needed to interpret large remote-sensing data sets. In order to identify fracture locations from satellite imagery across Antarctica, we develop a neural network model for fracture recognition. Ice fractures result in the collapse of Antartctica ice-shelves, which is expected to destabilize glacier flows into the ocean and accelerate glabal sea-level rise. The outcome of this research will provide a thorough map of fracture distribution across Antarctica, which is important for evaluating the impact of ice fractures on the future sea-level.
