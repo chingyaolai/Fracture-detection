@@ -7,6 +7,8 @@ The availability of remote-sensing data is rapidly expanding. New strategies whi
 ### File explanation
 Fracture_detection.pdf :                                                Summary of model performance (NN, DNN, CNN)
 
-Fractures Investigation_apply model_finepattern.ipynb :                 Comparison between differen model structure 
+Fracture_epoch100.ipynb:                                                U-Net with large input shape (100x1000) (DCNN)
 
-Fractures Investigation_apply model_finepattern_LargeInputShape.ipynb:  Comparison between different input shape
+Fractures Investigation_apply model_finepattern.ipynb :                 Comparison between differen model structure (CNN)
+
+Fractures Investigation_apply model_finepattern_LargeInputShape.ipynb:  Comparison between different input shape (CNN)
